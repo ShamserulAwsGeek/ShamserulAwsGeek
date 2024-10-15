@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamserulawsgeek&label=Profile%20views&color=0e75b6&style=flat" alt="shamserulawsgeek" /> </p>
 
-- 🔭 I'm very much passionate about Aws Cloud. As a Aws DevOps Engineer, I specialize in leveraging Terraform for efficient infrastructure as code (IaC) implementations, ensuring scalable and reliable cloud solutions. My expertise with AWS Cloud spans a wide range of services, enabling seamless deployment, management, and monitoring of cloud environments. Additionally, I utilize GitHub for effective version control, collaboration, and CI/CD pipeline integrations, driving continuous improvement and operational excellence.
+- 🔭 I'm very much passionate about Aws Cloud. As  Aws DevOps Engineer, I specialize in leveraging Terraform for efficient infrastructure as code (IaC) implementations, ensuring scalable and reliable cloud solutions. My expertise with AWS Cloud spans a wide range of services, enabling seamless deployment, management, and monitoring of cloud environments. Additionally, I utilize GitHub for effective version control, collaboration, and CI/CD pipeline integrations, driving continuous improvement and operational excellence.
 
-- 🌱 I’m currently learning Gen AI **I am the winner of Aws_Gen_AI_Partyrock_Hackathon.** I aspire to be a change maker, with a dream of delivering a TED talk someday. GitHub is the perfect platform to showcase my skills and establish myself as a "must-call" candidate in this ever-evolving industry.
+- 🌱 I’m currently learning Gen AI  & **I am the winner of Aws_Gen_AI_Partyrock_Hackathon.** I aspire to be a change maker, with a dream of delivering a TED talk someday. GitHub is the perfect platform to showcase my skills and establish myself as a "must-call" candidate in this ever-evolving industry.
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/shamserul-haque/](https://www.linkedin.com/in/shamserul-haque/)
 
