@@ -1,8 +1,9 @@
-<img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
 <h1 align="center">Hi 👋, I'm Md Shamserul Haque</h1>
 <h3 align="center">A passionate Aws DevOps Engineer from Bengaluru,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamserulawsgeek&label=Profile%20views&color=0e75b6&style=flat" alt="shamserulawsgeek" /> </p>
+
+<img align="right" height="100" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
 - 🔭 I'm very much passionate about Aws Cloud. As  Aws DevOps Engineer, I specialize in leveraging Terraform for efficient infrastructure as code (IaC) implementations, ensuring scalable and reliable cloud solutions. My expertise with AWS Cloud spans a wide range of services, enabling seamless deployment, management, and monitoring of cloud environments. Additionally, I utilize GitHub for effective version control, collaboration, and CI/CD pipeline integrations, driving continuous improvement and operational excellence.
 
