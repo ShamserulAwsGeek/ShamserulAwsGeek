@@ -8,6 +8,7 @@
 - 🌱 I’m currently exploring Gen AI  & **I am the winner of Aws_Gen_AI_Partyrock_Hackathon.** I aspire to be a change maker, with a dream of delivering a TED talk someday. GitHub is the perfect platform to showcase my skills and establish myself as a "must-call" candidate in this ever-evolving industry.
 
 - 📝 I regularly write articles on aws community & [https://www.linkedin.com/in/shamserul-haque/](https://www.linkedin.com/in/shamserul-haque/)
+- I'm Gen AI Hackathon winner(PartyRock Generative AI Hackathon by AWS): https://devpost.com/software/trip-planner-your-journey-begins-here
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
