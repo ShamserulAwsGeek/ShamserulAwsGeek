@@ -1,3 +1,4 @@
+<img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
 <h1 align="center">Hi 👋, I'm Md Shamserul Haque</h1>
 <h3 align="center">A passionate Aws DevOps Engineer from Bengaluru,India</h3>
 
