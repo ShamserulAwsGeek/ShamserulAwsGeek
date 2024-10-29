@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I+am+Md+Shamserul+Haque;+Welcome+to+My+Profile!;AWS+Enthusiast;Always+learning+new+things+;Aws+enthusiast)](https://git.io/typing-svg)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="250">
+  </div>
 
 <!-- <p align="center"><a href="https://gitmurali.github.io"><img width="80%" src="./assets/Md Shamserul Haque.png" /></a></p> -->
 
