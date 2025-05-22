@@ -13,7 +13,7 @@
 
 - 🔭 I'm very much passionate about Aws Cloud & aspiring Gen AI Engineer. As  Aws DevOps Engineer, I specialize in leveraging Terraform for efficient infrastructure as code (IaC) implementations, ensuring scalable and reliable cloud solutions. My expertise with AWS Cloud spans a wide range of services, enabling seamless deployment, management, and monitoring of cloud environments. Additionally, I utilize GitHub for effective version control, collaboration, and CI/CD pipeline integrations, driving continuous improvement and operational excellence.I participate in Hacktoberfest every year and trying to get insight from Open Source Community.
 
-- 🌱 I’m currently exploring Gen AI  & **I am the winner of Aws_Gen_AI_Partyrock_Hackathon.** I am the recipient of Aws All Builders Welcome Grant by Amazon. I aspire to be a change maker, with a dream of delivering a TED talk someday. GitHub is the perfect platform to showcase my skills and establish myself as a "must-call" candidate in this ever-evolving industry.
+- 🌱 I’m currently exploring Gen AI  & **I am the winner of Aws_Gen_AI_Partyrock_Hackathon.** I am the recipient of Aws All Builders Welcome Grant by Amazon. I aspire to be a change maker, with a dream of delivering a TED talk someday. GitHub is the perfect platform to showcase my skills and establish myself as a "must-call" candidate in this ever-evolving industry. I am learning & practicing AI. 
 
 - 📝 I regularly write articles on aws community & [https://www.linkedin.com/in/shamserul-haque/](https://www.linkedin.com/in/shamserul-haque/)
 - I'm Gen AI Hackathon winner(PartyRock Generative AI Hackathon by AWS): https://devpost.com/software/trip-planner-your-journey-begins-here
