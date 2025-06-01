@@ -6,7 +6,7 @@
 <!-- <p align="center"><a href="https://gitmurali.github.io"><img width="80%" src="./assets/Md Shamserul Haque.png" /></a></p> -->
  
 <br />
-<h3 align="center"> A passionate Aws DevOps Engineer & AI Practitioner more on to Agentic AI from Bengaluru,India</h3>
+<h3 align="center"> A passionate Aws DevOps Engineer & pro Agentic AI Practitioner from Bengaluru,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamserulawsgeek&label=Profile%20views&color=0e75b6&style=flat" alt="shamserulawsgeek" /> </p>
 
