@@ -1,4 +1,4 @@
-# 🏄‍♂ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&Center=true&VCenter=true&align=center&width=700&lines=Hey+lovely+folks+%F0%9F%91%8B,+I+am+Md+Shamserul+Haque;+Welcome+to+My+Profile!;AI/ML+Enthusiast;Always+learning+new+things+;Aws+enthusiast)](https://git.io/typing-svg)
+# 🏄‍♂ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&Center=true&VCenter=true&align=center&width=700&lines=Hey+lovely+folks+%F0%9F%91%8B,+I+am+Md+Shamserul+Haque;+Welcome+to+My+Profile!;AI/ML+Enthusiast;Always+learning+new+things+;Pro+AI+Practitioner)](https://git.io/typing-svg)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="200">
   </div>
