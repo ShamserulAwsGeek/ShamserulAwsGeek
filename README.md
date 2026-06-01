@@ -1,4 +1,4 @@
-# 🏄‍♂ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&Center=true&VCenter=true&align=center&width=700&lines=Hey+lovely+folks+%F0%9F%91%8B,+I+am+Md+Shamserul+Haque;+Welcome+to+My+Profile!;AWS+Enthusiast;Always+learning+new+things+;Aws+enthusiast)](https://git.io/typing-svg)
+# 🏄‍♂ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&Center=true&VCenter=true&align=center&width=700&lines=Hey+lovely+folks+%F0%9F%91%8B,+I+am+Md+Shamserul+Haque;+Welcome+to+My+Profile!;AI/ML+Enthusiast;Always+learning+new+things+;Aws+enthusiast)](https://git.io/typing-svg)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="200">
   </div>
@@ -6,7 +6,7 @@
 <!-- <p align="center"><a href="https://gitmurali.github.io"><img width="80%" src="./assets/Md Shamserul Haque.png" /></a></p> -->
  
 <br />
-<h3 align="center"> A passionate Aws DevOps Engineer & pro Agentic AI Practitioner from Bengaluru,India</h3>
+<h3 align="center"> A passionate AI/ML Engineer & pro Agentic AI Practitioner from Bengaluru,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamserulawsgeek&label=Profile%20views&color=0e75b6&style=flat" alt="shamserulawsgeek" /> </p>
 
