@@ -82,9 +82,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
   </a>
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamserulawsgeek&show_icons=true&locale=en&layout=compact" alt="shamserulawsgeek" />
-</p>
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamserulawsgeek&show_icons=true&locale=en" alt="shamserulawsgeek" />
-</p>
